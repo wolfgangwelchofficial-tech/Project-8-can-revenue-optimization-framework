@@ -99,15 +99,30 @@ This reduced capital strain while increasing top-line opportunity.
 [funding_activation/event_funding_leverage_model.md](funding_activation/event_funding_leverage_model.md)
 
 ---
+## Performance Governance Cadence
 
-## Strategic Outcome
+Revenue optimization operated on a layered review cadence:
 
-This optimization framework enabled:
+### Weekly – Tactical Monitoring
+- Sales pacing review by location
+- Revenue stream variance tracking
+- Immediate labor alignment if KPIs slipped
+- Identification of short-term promotional opportunities
 
-- Location-specific revenue growth targets
-- Structured uplift benchmarking
-- Cross-location partnership leverage
-- Revenue-aligned labor discipline
-- Commercially funded activations
+### Monthly – Trend Validation
+- Performance trend analysis by revenue stream
+- Partnership activation effectiveness review
+- Location-specific strategy adjustment
+- Identification of structural underperformance
 
-Optimization was driven by structured revenue modeling rather than reactive management.
+### Quarterly – Strategic Calibration
+- Historical benchmark comparison
+- 15% uplift progress validation
+- Standard elevation when performance exceeded targets
+- Reallocation of partnership leverage where needed
+
+Standards were not static.
+
+If a location achieved its uplift target ahead of schedule, the performance baseline was raised.
+
+Optimization was iterative and adaptive.
