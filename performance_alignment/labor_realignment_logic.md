@@ -1,41 +1,122 @@
-# KPI-Triggered Labor Realignment Logic
-
-## Philosophy
-
-Labor alignment was treated as a performance control variable, not a static schedule.
-
-Adjustments were made when KPIs or sales pacing indicated misalignment.
+# Phased Labor Optimization & Adaptive Performance Tuning  
+Location-Specific Efficiency Model
 
 ---
 
-## Trigger Conditions
+## Strategic Philosophy
 
-Labor realignment was initiated when:
+Labor was not adjusted reactively.
 
-- Weekly sales performance fell below expected pacing
-- KPI targets (weekly or stream-level) were not being met
-- Specific dayparts underperformed consistently
-- Events required staffing compression or expansion
-- Operational capacity and demand were out of alignment
+It was tuned deliberately through phased experimentation.
 
----
+Each location operated under unique market conditions.
 
-## Adjustment Levers
+There was no master replication model.
 
-Common realignment actions included:
-
-- Rebalancing staffing by daypart (peak vs non-peak)
-- Adjusting role coverage (floor vs bar vs support)
-- Scaling event staffing to expected attendance and revenue objectives
-- Reducing coverage during low-density hours
-- Increasing coverage during revenue-dense periods to protect throughput
+Optimization required local iteration.
 
 ---
 
-## Cadence & Feedback Loop
+## Trigger Conditions for Review
 
-- Weekly: labor adjustments based on sales pacing and KPI variance
-- Monthly: evaluation of recurring underperformance patterns
-- Quarterly: structural recalibration if patterns persisted
+Labor structure was evaluated when:
 
-Labor decisions were tied to revenue density, not habit.
+- Weekly revenue pacing consistently trended below uplift targets
+- Bar/VIP contribution ratios shifted materially
+- Event performance failed to convert at expected density
+- Margin compression was observed relative to revenue output
+
+Single-week volatility did not trigger structural change.
+
+Patterns did.
+
+---
+
+## Phased Adjustment Model
+
+Adjustments followed a controlled progression:
+
+### Phase 1 – Tactical Calibration
+
+- Minor schedule compression or expansion
+- Reallocation of staffing across dayparts
+- VIP service coverage adjustments
+- Short-term staffing shifts tied to event density
+
+Impact measured weekly.
+
+---
+
+### Phase 2 – Structural Experimentation
+
+If underperformance persisted:
+
+- Rebalancing role distribution
+- Testing alternative staffing models
+- Modifying VIP support allocation
+- Adjusting peak-hour density coverage
+
+Changes were isolated to one variable at a time to observe impact.
+
+This avoided compounding variables.
+
+---
+
+### Phase 3 – Strategic Recalibration
+
+If trend persisted over monthly review:
+
+- Broader staffing model redesign
+- Adjusted service flow
+- Permanent role modification
+- Cost-to-revenue structural recalibration
+
+At this stage, decisions were no longer tactical — they were systemic.
+
+---
+
+## Location-Specific Adaptation
+
+No adjustment was assumed to be portable across locations.
+
+Each site:
+
+- Had its own revenue density profile
+- VIP-to-bar balance variance
+- Market-specific demand behavior
+- Staffing efficiency baseline
+
+Optimization respected local dynamics.
+
+Replication required validation.
+
+---
+
+## Governance Integration
+
+Labor adjustments were integrated into performance cadence:
+
+Weekly:
+- Immediate impact monitoring
+
+Monthly:
+- Trend validation
+
+Quarterly:
+- Structural redesign evaluation
+
+All labor tuning decisions were documented and reviewed against revenue uplift objectives.
+
+---
+
+## Strategic Outcome
+
+The phased labor model:
+
+- Prevented reactive overcorrection
+- Reduced structural inefficiency risk
+- Allowed experimentation without destabilization
+- Increased revenue-to-labor alignment
+- Reinforced GM-level accountability
+
+Labor became a performance lever — not a static cost center.
