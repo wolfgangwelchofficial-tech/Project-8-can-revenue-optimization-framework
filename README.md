@@ -53,6 +53,16 @@ This included:
 - Event sponsorship activation
 - Brand-backed marketing partnerships
 
+## Strategic Partnership & Promotional Capital Engineering
+
+Vendor relationships were repositioned from transactional supply agreements to commercial growth partnerships.
+
+![Partnership Activation Flywheel](visuals/partnership_activation_flywheel.png)
+
+The flywheel above illustrates how vendor engagement, funding activation, execution, and incremental revenue create a reinforcing commercial loop.
+
+Each successful activation strengthened leverage for the next negotiation cycle.
+
 Partnerships were treated as commercial accelerators, not transactional supply relationships.
 
 **Deep dive:**  
@@ -61,6 +71,14 @@ Partnerships were treated as commercial accelerators, not transactional supply r
 ---
 
 ## 3. Performance-Based Labor Realignment
+
+## Monitoring & Review Cadence
+
+Performance governance operated on a structured escalation rhythm.
+
+![Performance Governance Cadence](visuals/performance_governance_cadence.png)
+
+The cadence model ensured tactical correction, structural validation, and strategic elevation occurred at disciplined intervals.
 
 Labor adjustments were not constant.
 
