@@ -1,54 +1,108 @@
-# Event Funding Leverage Model (Vendor-Backed Activation)
-
-## Purpose
-
-Internal budgets were expanded through external leverage.
-
-Rather than cutting internally to fund events, commercial partners and vendors were used to activate additional capital where possible.
+# Event Funding Leverage & Incremental Revenue Engineering  
+Commercial Activation ROI Model
 
 ---
 
-## Funding Mechanisms
+## Strategic Intent
 
-Funding was activated through:
+Event funding was not pursued for brand alignment alone.
 
-- Liquor brand sponsorship support
-- Vendor-backed promotional budgets
-- Co-marketing agreements tied to activation calendars
-- Partnership-supported specials and featured product placement
-- Event-based funding requests tied to measurable revenue goals
+It was engineered to produce measurable incremental revenue.
+
+Vendor participation was structured around mutual benefit:
+
+Brands:
+- Content capture
+- Social visibility
+- In-venue placement
+- Experiential activation
+
+Locations:
+- Incremental bar revenue
+- VIP density uplift
+- Weekly pacing acceleration
+
+---
+
+## Activation Economics
+
+Event success was defined quantitatively.
+
+Baseline:
+Average revenue for comparable day.
+
+Performance thresholds:
+
++25% over baseline = Activation Success  
++50% over baseline = High-Performance Activation  
+
+Example:
+
+If average Thursday revenue = $40,000
+
++25% target = $50,000  
++50% target = $60,000  
+
+Funding was evaluated against incremental lift — not total revenue alone.
+
+---
+
+## Funding Structure Model
+
+Vendor funding was typically secured through:
+
+- Sponsored event nights
+- Brand-featured activations
+- Promotional support budgets
+- Content-driven placement agreements
+
+Brand expectation:
+High-quality content + audience visibility
+
+Operational expectation:
+Incremental revenue uplift exceeding baseline.
 
 ---
 
 ## Activation Workflow
 
-1. Event concept identified at location level
-2. Funding needs defined (marketing, props/decor, specials, staffing)
-3. Vendor/partner alignment pursued for support
-4. Sponsorship or funding terms confirmed
-5. Activation requirements assigned across departments
-6. Performance tracked against defined objectives
+1. Event concept aligned with revenue target
+2. Vendor engaged with defined commercial objective
+3. Brand deliverables specified (content, placement, promotion)
+4. Cross-department activation executed
+5. Post-event revenue variance analyzed
+6. ROI classified based on uplift threshold
 
 ---
 
-## Cross-Department Activation
+## Performance Evaluation Framework
 
-Every funded activation required coordination across:
+Weekly:
+- Revenue vs baseline comparison
+- VIP conversion tracking
+- Bar density validation
 
-- Operations (staffing + execution readiness)
-- Marketing (promotion calendar + deliverables)
-- Vendor Management (partner terms + deliverables)
-- Finance (budget tracking + reconciliation)
-- IT (POS specials, campaign tags, reporting)
+Monthly:
+- Pattern recognition in activation performance
+- Identification of repeatable success structures
+
+Quarterly:
+- Funding allocation toward highest ROI activations
+- Removal of underperforming event types
+- Standard elevation for proven formats
 
 ---
 
-## Governance
+## Strategic Outcome
 
-Funding performance was reviewed through:
+The funding leverage model:
 
-- Weekly pacing (revenue response)
-- Monthly ROI validation (activation effectiveness)
-- Quarterly standard elevation (raise targets if activation exceeds baseline)
+- Reduced reliance on internal promotional budgets
+- Converted brand visibility into measurable revenue impact
+- Created a repeatable activation playbook
+- Increased event-based revenue density
+- Established quantitative success benchmarks
 
-Funding was treated as a repeatable commercial system, not a one-off win.
+Events were not entertainment.
+
+They were engineered revenue spikes.
